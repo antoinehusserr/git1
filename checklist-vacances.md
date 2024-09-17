@@ -1,3 +1,3 @@
-git branch new branch branche2
-
+git checkout master 
+git merge new-branch
 
